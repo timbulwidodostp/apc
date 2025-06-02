@@ -1,0 +1,6 @@
+D 'apc': Estimating age period cohort effects Use apc_ie and apc_cglim With STATA 19
+D
+F apc_ie.ado
+F apc_ie.hlp
+F apc_cglim.ado
+F apc_cglim.hlp
