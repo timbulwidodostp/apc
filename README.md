@@ -1,6 +1,8 @@
 # apc
 Estimating age period cohort effects Use apc_ie and apc_cglim With STATA 19
 
+https://www.youtube.com/watch?v=LUBX8_i-WaU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
